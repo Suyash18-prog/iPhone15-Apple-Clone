@@ -100,7 +100,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/rinkitadhana/The-Daily-Crimes
+  git clone https://github.com/Suyash18-prog/The-Daily-Crimes
 ```
 
 Go to the project directory
@@ -120,25 +120,4 @@ Start the server
 ```bash
   npm run dev
 ```
-
-
-
-<!-- Contributing -->
-## Contributing
-
-<a href="https://github.com/rinkitadhana/The-Daily-Crimes/contributors">
-  <img src="https://contrib.rocks/image?repo=rinkitadhana/The-Daily-Crimes" />
-</a>
-
-
-Contributions are always welcome!
-
-
-
-<!-- Contact -->
-##  Contact
-
-Rinkit Adhana - [@damnGruz](https://twitter.com/damnGruz) - therinkit@gmail.com
-
-Portfolio - [therinkit.online](https://therinkit.online)
 
